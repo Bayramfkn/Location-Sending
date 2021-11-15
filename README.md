@@ -1,0 +1,1 @@
+# Tekerlekli-Sandalye-Konum-Gonderme
